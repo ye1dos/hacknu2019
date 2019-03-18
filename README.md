@@ -25,6 +25,7 @@ HackNU 2019 Problems
 разграничивать права (чтобы могли использовать разные группы пользователей)
 импортировать и экспортировать граф с сохранением внесенных изменений
 
+### Microsoft
 Задача 1:
 
 Используя готовые шаблоны службы Azure чат-бот разработать качественный прототип умного кросс-платформенного чат-бота с целью запуска онлайн сервиса для абитуриентов NU по всем программам университета (бакалавриат, магистратура, докторантура, MBA и др.), который бы давал ответы на часто-задаваемые вопросы 1-й и 2-й линии по программам вуза, требованиям для поступления, документации, навигации, и пр. для поддержки потенциальных абитуриентов вуза.
@@ -134,6 +135,7 @@ Delivering geospatial analytics capabilities that improve the gathering, managin
 Overview – https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/geo-ai-dsvm-overview
 How-to – https://docs.microsoft.com/en-us/azure/machine-learning/data-science-virtual-machine/use-geo-ai-dsvm
 
+### EY
 Призы: Сертификат на 150 000 тенге для каждой задачи
 
 Задача 1:
